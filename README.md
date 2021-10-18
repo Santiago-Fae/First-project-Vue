@@ -1,4 +1,5 @@
 # project
+<p>A simple Vue project to add items to a list, mark them as concluding, and remove them.<p>
 
 ## Project setup
 ```
